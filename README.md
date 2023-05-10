@@ -1,1 +1,1 @@
-# npg_pawel_lato
+Przykładowy tekst
