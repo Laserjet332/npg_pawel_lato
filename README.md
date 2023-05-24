@@ -1,1 +1,2 @@
 Przykładowy tekst
+Tekst2
